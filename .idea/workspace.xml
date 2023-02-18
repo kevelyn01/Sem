@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="584461c4-c54e-4fb1-a160-87777e9d4189" name="Changes" comment="Read me update.">
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-    </list>
+    <list default="true" id="584461c4-c54e-4fb1-a160-87777e9d4189" name="Changes" comment="Read me update." />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -131,7 +129,7 @@
       <workItem from="1676668066359" duration="3388000" />
       <workItem from="1676671706206" duration="1175000" />
       <workItem from="1676677728351" duration="622000" />
-      <workItem from="1676679212579" duration="1285000" />
+      <workItem from="1676679212579" duration="1727000" />
     </task>
     <task id="LOCAL-00001" summary="Docker Setup">
       <created>1676672820082</created>
@@ -154,7 +152,14 @@
       <option name="project" value="LOCAL" />
       <updated>1676680205552</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Read me update.">
+      <created>1676680581849</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1676680581849</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
