@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="584461c4-c54e-4fb1-a160-87777e9d4189" name="Changes" comment="Readme Update">
-      <change beforePath="$PROJECT_DIR$/Dockerfile" beforeDir="false" afterPath="$PROJECT_DIR$/Dockerfile" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-    </list>
+    <list default="true" id="584461c4-c54e-4fb1-a160-87777e9d4189" name="Changes" comment="Readme Update" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -35,9 +32,15 @@
         <option value="Kurt Evelyn &lt;40617879@live.napier.ac.uk&gt;" />
       </list>
     </option>
+    <option name="PUSH_TAGS">
+      <GitPushTagMode>
+        <option name="argument" value="--tags" />
+        <option name="title" value="All" />
+      </GitPushTagMode>
+    </option>
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="develop" />
+        <entry key="$PROJECT_DIR$" value="master" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -53,12 +56,12 @@
               <option name="branches">
                 <list>
                   <RecentBranch>
-                    <option name="branchName" value="release" />
-                    <option name="lastUsedInstant" value="1676960819" />
+                    <option name="branchName" value="develop" />
+                    <option name="lastUsedInstant" value="1676961757" />
                   </RecentBranch>
                   <RecentBranch>
-                    <option name="branchName" value="develop" />
-                    <option name="lastUsedInstant" value="1676960525" />
+                    <option name="branchName" value="release" />
+                    <option name="lastUsedInstant" value="1676960819" />
                   </RecentBranch>
                   <RecentBranch>
                     <option name="branchName" value="feature/mongo-intergration" />
@@ -191,10 +194,10 @@
     <recent_temporary>
       <list>
         <item itemvalue="Docker.Dockerfile" />
-        <item itemvalue="Application.App" />
         <item itemvalue="Docker.Docker Image (2)" />
         <item itemvalue="Docker.Docker Image (1)" />
         <item itemvalue="Docker.Docker Image" />
+        <item itemvalue="Application.App" />
       </list>
     </recent_temporary>
   </component>
