@@ -52,12 +52,12 @@
               <option name="branches">
                 <list>
                   <RecentBranch>
-                    <option name="branchName" value="feature/mongo-intergration" />
-                    <option name="lastUsedInstant" value="1676687544" />
+                    <option name="branchName" value="develop" />
+                    <option name="lastUsedInstant" value="1676960525" />
                   </RecentBranch>
                   <RecentBranch>
-                    <option name="branchName" value="develop" />
-                    <option name="lastUsedInstant" value="1676684894" />
+                    <option name="branchName" value="feature/mongo-intergration" />
+                    <option name="lastUsedInstant" value="1676960343" />
                   </RecentBranch>
                   <RecentBranch>
                     <option name="branchName" value="master" />
@@ -314,6 +314,7 @@
     <MESSAGE value="Docker Setup" />
     <MESSAGE value="Read me update." />
     <MESSAGE value="mongodb." />
-    <option name="LAST_COMMIT_MESSAGE" value="mongodb." />
+    <MESSAGE value="Workflow update" />
+    <option name="LAST_COMMIT_MESSAGE" value="Workflow update" />
   </component>
 </project>
